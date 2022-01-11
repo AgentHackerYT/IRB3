@@ -1,0 +1,86 @@
+{
+
+    "clientId": "922812935921868811",
+
+    "links": [
+
+        "https://www.youtube.com/watch?v=SPrgeuLRRVo", 
+
+        "https://www.youtube.com/watch?v=M8AVyj8PmBE",
+
+        "https://www.youtube.com/watch?v=d9M-YFxikvI",
+
+        "https://www.youtube.com/watch?v=DykMKEV-63I", 
+
+        "https://youtu.be/jipGjSq4Plg",
+
+        "https://youtu.be/t6JZnMNN6c8", 
+
+        "https://www.youtube.com/watch?v=q0BVR5jRXxE", 
+
+        "https://www.youtube.com/watch?v=rJFYm_55wDU", 
+
+        "https://www.youtube.com/watch?v=Wds5qlnNJJA", 
+
+        "https://www.youtube.com/watch?v=vDx1hzBDI7E", 
+
+        "https://www.youtube.com/watch?v=SPrgeuLRRVo",
+
+        "https://www.youtube.com/watch?v=xBQQe9Sc5Qg", 
+
+        "https://www.youtube.com/watch?v=rIS45TwU6dQ", 
+
+        "https://www.youtube.com/watch?v=iWkt_0HF-q8", 
+
+        "https://www.youtube.com/watch?v=w5fLqLbG3Xw", 
+
+        "https://www.youtube.com/watch?v=ELp0GvGnHUM", 
+
+        "https://youtu.be/IG-aaZVNFYw"
+
+    ],
+
+    "stations": [
+
+        {"name":"Radio Mirchi - Mirchi" , "url": "http://peridot.streamguys.com:7150/Mirchi", "country": "India"},
+
+        {"name":"Radio Mirchi - 90s Hit", "url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8", "country": "India"},
+
+        {"name":"Radio Mirchi - Club Mirchi", "url": "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8", "country": "India"},
+
+        {"name": "Radio Mirchi - Filmy Mirchi" , "url": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8", "country": "India"},
+
+        {"name": "Radio Mirchi - Hindi Retro", "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8", "country": "India"},
+
+        {"name": "Sayaji FM", "url": "https://sayajifm.radioca.st/stream/", "country":"India"},
+
+        {"name": "Bombay Beats India Radio", "url": "http://strm112.1.fm/bombaybeats_mobile_mp3", "country":"India"},
+
+        {"name": "Angel TV India", "url": "https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/e7a2aac8_1_1872000/chunklist.m3u8", "country":"India"},
+
+        {"name": "India Beat" , "url": "http://astro4.rastream.com/india", "country":"India"},
+
+        {"name": "New Delhi India TV", "url": "http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8", "country": "India"},
+
+        {"name": "Radio Maria India", "url": "http://dreamsiteradiocp.com:8002/stream", "country":"India"},
+
+        {"name": "Fnf.FM Hindi", "url": "http://192.99.8.192:5032/;stream", "country":"India"},
+
+        {"name": "Hindi Desi Bollywood Evergreen Hits Channel 1", "url": "http://cast1.asurahosting.com:8569/stream", "country":"India"},
+
+        {"name": "M4URadio - Mix Music For The Mix Nation", "url": "http://72.44.89.82:8000/", "country":"India"},
+
+        {"name": "Retro Bollywood", "url": "http://64.71.79.181:5124", "country":"India"},
+
+        {"name": "Radio Dabang" , "url": "http://ca6.rcast.net:8052/;", "country":"India"},
+
+        {"name": "Big FM 92.7", "url": "http://sc-bb.1.fm:8017/", "country": "India"},
+
+        {"name": "Greatest-Absolut-Radio", "url": "https://stream-mz.planetradio.co.uk/net2national.mp3", "country":"UK"},
+
+        {"name": "Absolut-Radio", "url": "http://icy-e-bab-02-gos.sharp-stream.com/absoluteradio.mp3", "country": "UK"},
+
+        {"name": "I Love Radio", "url": "https://streams.ilovemusic.de/iloveradio104.mp3", "country": "UK"}
+
+    ]
+}
