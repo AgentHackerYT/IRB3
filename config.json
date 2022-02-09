@@ -41,7 +41,8 @@
     ],
 
     "stations": [
-
+         {"name": "Radio Mirchi - Meethi Mirchi", "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8?hdnts=st=1644399882~exp=1644486282~acl=/*~hmac=c73407dac2de9989e0b49a6aaaa60147292f1e519551654d26d2ceb9205f0793", "country":"India"},
+        
         {"name":"Radio Mirchi - Mirchi" , "url": "http://peridot.streamguys.com:7150/Mirchi", "country": "India"},
 
         {"name":"Radio Mirchi - 90s Hit", "url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8", "country": "India"},
