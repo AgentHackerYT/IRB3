@@ -85,8 +85,7 @@ module.exports = async(interaction) =>{
 async function Play(filter, connection){
       const player = voice.createAudioPlayer()
 
-    const resource = voice.createAudioResource
-    ("https://6d11ff43-81b9-43ce-b4c4-f4b75fd929f8.id.repl.co/lofi?filter="+filter)  
+    const resource = voice.createAudioResource("https://6d11ff43-81b9-43ce-b4c4-f4b75fd929f8.id.repl.co/lofi?filter="+filter)  
 
 player.play(resource)
         resource.playStream.on("end", () => Play2(filter, connection))
@@ -98,8 +97,7 @@ player.play(resource)
 async function Play2(filter, connection){
       const player = voice.createAudioPlayer()
 
-    const resource = voice.createAudioResource
-    ("https://ec4d1aed-0f7b-4c62-9e9e-09af59ed1e12.id.repl.co/lofi/hindi?filter="+filter)  
+    const resource = voice.createAudioResource("https://ec4d1aed-0f7b-4c62-9e9e-09af59ed1e12.id.repl.co/lofi/hindi?filter="+filter)  
 player.play(resource)
         resource.playStream.on("end", () => Play(filter))
 
