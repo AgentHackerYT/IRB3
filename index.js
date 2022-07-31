@@ -132,7 +132,7 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login("OTIyODEyOTM1OTIxODY4ODEx.Gf-uXN.K8HzduvGPDqxkLqeJPBKTp6dC-1eubWdylXef0")
+client.login("OTIyODEyOTM1OTIxODY4ODEx.GE0zdg.4CYRA3z-bFFjAA1Nof9E2TfrXDlMJdAPdF1nfs")
 
 handle()
 
