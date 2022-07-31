@@ -132,7 +132,7 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login(process.env.TOKEN)
+client.login("OTIyODEyOTM1OTIxODY4ODEx.Gf-uXN.K8HzduvGPDqxkLqeJPBKTp6dC-1eubWdylXef0")
 
 handle()
 
