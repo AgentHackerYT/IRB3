@@ -5,7 +5,7 @@ module.exports = async(interaction) => {
      const invite = new Discord.MessageButton()
     .setStyle(`LINK`)
     .setLabel(`Invite Me`)
-    .setURL(`https://discord.com/api/oauth2/authorize?client_id=922812935921868811&permissions=1644703383360&scope=bot%20applications.commands`)
+    .setURL(`https://discord.com/api/oauth2/authorize?client_id=922812935921868811&permissions=139623525696&scope=bot%20applications.commands`)
 
     const support = new Discord.MessageButton()
     .setStyle("LINK")
