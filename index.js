@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 const express = require("express")
-
+require("dotenv").config()
 const app = express()
 
 app.get("/", (req ,res) =>{
@@ -132,7 +132,7 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login("OTIyODEyOTM1OTIxODY4ODEx.GE0zdg.4CYRA3z-bFFjAA1Nof9E2TfrXDlMJdAPdF1nfs")
+client.login(process.env.TOKEN)
 
 handle()
 
